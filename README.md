@@ -7,5 +7,5 @@ Run:
 `pip install click`
 
 Usage:
-`python stock-data-cli.py --symbol A  --fr0m 2020-05-05 --t0 2021-06-06`
+`python stock-data-cli.py --symbol AAPL --fr0m 2020-05-05 --t0 2021-06-06`
 
